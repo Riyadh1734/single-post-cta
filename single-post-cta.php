@@ -5,7 +5,7 @@
  * Plugin URI: https://github.com/Riyadh1734/single-post-cta
  * Author: Riyadh Ahmed
  * Author URI: http://sajuahmed.epizy.com/
- * Version: 1.0
+ * Version: 1.0.0
  * License: GPL2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * text Domain: spc
